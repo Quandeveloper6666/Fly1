@@ -1,3 +1,6 @@
+local fly1 = loadstring(game:HttpGet('https://https://raw.githubusercontent.com/Quandeveloper6666/Fly1/main/Fly%20666"))()
+getgenv().SecureMode = true
+
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local up = Instance.new("TextButton")
